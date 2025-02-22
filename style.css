@@ -1,0 +1,29 @@
+body{
+    font-style: italic;
+}
+
+.container{
+    width: 1140px;
+    margin: auto;
+}
+
+.first-page{
+    width: 100%;
+    text-align: center;
+}
+
+.page-title h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.page-title p{
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 4px solid red;
+}
+
+p{
+    font-size: 25px;
+    font-weight: 500;
+}
