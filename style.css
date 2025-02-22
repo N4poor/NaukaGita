@@ -7,9 +7,13 @@ body{
     margin: auto;
 }
 
+/* Header */
+
 .first-page{
     width: 100%;
     text-align: center;
+    background: #8d8b8b;
+    border-bottom: 4px solid red;
 }
 
 .page-title h1{
@@ -26,4 +30,23 @@ body{
 p{
     font-size: 25px;
     font-weight: 500;
+}
+
+/* Biography */
+
+.biography-page {
+font-size: 15px;
+text-align: center;
+background: #8d8b8b;
+}
+
+.biography-page h1{
+    font-size: 45px;
+    margin: 0 0 0 0;
+    text-decoration-line: underline;
+}
+
+.biography-page h2{
+    font-weight: 500;
+    font-style: italic;
 }
